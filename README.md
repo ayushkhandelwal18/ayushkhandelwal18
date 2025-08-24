@@ -17,7 +17,9 @@ Other Interests: Scalable Systems, Startups, Web Development
 🌱 About Me
 
 🎓 B.Tech ECE @ IIIT Kota (Batch of ’27)
+
 💡 Exploring startup ecosystems & tech-driven solutions
+
 ⚡ Love building backend architectures & solving real-world problems
 
 --------------------------------------------------------------
@@ -31,4 +33,5 @@ Check out my work 👉 My Portfolio [https://ayush-khandelwal-portfolio.onrender
 🤝 Let’s Connect
 
 📈 Open to collaborations, exciting projects, and networking opportunities
+
 📫 Always curious to learn and build things that push boundaries 🚀
