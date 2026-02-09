@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am currently pursuing **Electronics & Communication Engineering** at **IIIT Kota (2027 batch)** 🎓<br>
 I build **scalable web applications** and enjoy turning ideas into real-world products 💻<br>
-Focused on learning **core computer science fundamentals** and modern backend technologies 📚<br>
+Focused on learning **core computer science fundamentals** and modern technologies 📚<br>
 Regularly practicing **DSA** to strengthen problem-solving and interview readiness 🧠<br>
 Open to **collaborations, internships, and impactful opportunities** 🤝
 
@@ -33,9 +33,9 @@ Open to **collaborations, internships, and impactful opportunities** 🤝
 
 ---
 
-## 🤝 Let’s Connect:
-I am open to **networking and collaborations**.  
-**LinkedIn DMs are open** for new ideas, discussions, and opportunities.
+## 🤝 Let’s Connect
+Open to **networking, collaborations, and internship opportunities**.  
+**LinkedIn DMs are open** for discussions, ideas, and opportunities.
 
 
 
