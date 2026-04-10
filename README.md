@@ -18,7 +18,7 @@ Open to **collaborations, internships, and impactful opportunities** 🤝
 ## 🧑‍💻 Featured Projects:
 - **TrackMyHunt** – Job & application tracking platform  
   🔗 Repo: https://github.com/ayushkhandelwal18/TrackMyHunt  
-  🌐 Live: https://trackmyhunt.vercel.app/
+  🌐 Live: https://track-my-hunt.vercel.app
 
 - **User Management System** – Authentication, roles & user handling  
   🔗 Repo: https://github.com/ayushkhandelwal18/USER-MANAGEMENT-SYSTEM
