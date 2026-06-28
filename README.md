@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Khandelwal</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Enthusiast • MERN Stack • IIIT Kota
+Full Stack Developer  • MERN Stack • Software Dev• IIIT Kota
 </h3>
 
 <p align="center">
@@ -16,21 +16,21 @@ Full Stack Developer • Backend Enthusiast • MERN Stack • IIIT Kota
 
 💻 Passionate about building **scalable full-stack web applications**
 
-⚡ Strong interest in **Backend Development**, **System Design**, and **Software Engineering**
+💡 I love **innovation and new technologies** ❤
 
 🌱 Currently learning
 
-- Advanced Backend Development
-- Docker & Microservices
-- System Design
 - Computer Science Fundamentals
+- System Design
+- Something about AI & Automation
 
 🧠 Solving **DSA** regularly to improve problem-solving and interview skills.
 
 🤝 Looking for
 
 - Software Engineering Internships
-- Backend Developer Roles
+- Developer Internships
+- Full time job 
 - Open Source Contributions
 - Exciting Collaborations
 
@@ -81,12 +81,6 @@ Full Stack Developer • Backend Enthusiast • MERN Stack • IIIT Kota
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **TrackMyHunt** | Job & Internship Tracking Platform built with MERN Stack |
-| **User Management System** | Authentication, Authorization & Role-Based Access |
-| **AI Chat Bot** | AI-powered chatbot using Google Gemini API |
-
 ### 🔗 Project Links
 
 **TrackMyHunt**
@@ -121,57 +115,26 @@ https://github.com/ayushkhandelwal18/AI-Chat-Bot
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushkhandelwal18&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkhandelwal18&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayushkhandelwal18&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushkhandelwal18&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 # 💻 Coding Profiles
 
 <p>
 
 <a href="https://codolio.com/profile/ayushk26">
-<img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=ayushkhandelwal18&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
 
 ### ⭐️ Thanks for visiting my profile!
 
