@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Khandelwal</h1>
 
 <h3 align="center">
-Full Stack Developer  • MERN Stack • Software Dev• IIIT Kota
+Full Stack Developer  • MERN Stack • Software Developer • IIIT Kota
 </h3>
 
 <p align="center">
