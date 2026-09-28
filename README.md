@@ -190,33 +190,6 @@
 
 ---
 
-<!-- =================================================================== -->
-<!-- 🚀 FEATURED PROJECT                                                 -->
-<!-- =================================================================== -->
-
-<h2>🌟 Featured Project</h2>
-
-<h3>📌 TrackMyHunt</h3>
-
-<p>
-  A centralized full-stack <b>Job Hunt Management Platform</b> integrated with a companion <b>Chrome Extension</b> to streamline application tracking, organize resumes, and monitor recruitment pipelines seamlessly.
-</p>
-
-<p>
-  <b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>Tailwind CSS</code> • <code>Chrome Extension</code>
-</p>
-
-<p>
-  <a href="https://track-my-hunt.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ayushkhandelwal18/TrackMyHunt" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-</p>
-
----
 
 <!-- =================================================================== -->
 <!-- 📊 GITHUB & CODING METRICS                                          -->
