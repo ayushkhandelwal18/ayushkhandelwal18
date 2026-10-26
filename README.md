@@ -91,6 +91,7 @@
 
 ---
 
+
 <!-- =================================================================== -->
 <!-- 🛠️ SKILLS: DYNAMIC TECH STACK BADGES WITH HOVER TOOLTIPS             -->
 <!-- =================================================================== -->
@@ -111,6 +112,7 @@
       <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL / SQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
     </td>
   </tr>
+
   <tr>
     <td width="22%" valign="top"><b>🎨 Frontend</b></td>
     <td>
@@ -122,6 +124,7 @@
       <a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer" title="Redux Toolkit"><img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" width="40" height="40"/></a>
     </td>
   </tr>
+
   <tr>
     <td width="22%" valign="top"><b>⚙️ Backend & DB</b></td>
     <td>
@@ -129,18 +132,25 @@
       <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>&nbsp;
       <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>&nbsp;
       <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>&nbsp;
-      <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/></a>
+      <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/></a>&nbsp;
+      <a href="https://qdrant.tech" target="_blank" rel="noreferrer" title="Qdrant Vector Database"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=database&logoColor=white" alt="Qdrant Vector Database"/></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer" title="Server-Sent Events (SSE)"><img src="https://img.shields.io/badge/SSE-2563EB?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Server-Sent Events"/></a>
     </td>
   </tr>
+
   <tr>
     <td width="22%" valign="top"><b>🤖 AI & GenAI</b></td>
     <td>
       <a href="https://ai.google.dev" target="_blank" rel="noreferrer" title="Generative AI (Gen AI)"><img src="https://img.shields.io/badge/Gen%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/></a>&nbsp;
       <a href="https://ai.google.dev" target="_blank" rel="noreferrer" title="Google Gemini API Integration"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/></a>&nbsp;
       <a href="https://groq.com" target="_blank" rel="noreferrer" title="Groq API (Fast LLM Inference)"><img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=speedtest&logoColor=white" alt="Groq API"/></a>&nbsp;
-      <a href="https://platform.openai.com" target="_blank" rel="noreferrer" title="LLM API Integration"><img src="https://img.shields.io/badge/LLM%20API%20Integration-00C2FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="LLM API Integration"/></a>
+      <a href="https://platform.openai.com" target="_blank" rel="noreferrer" title="LLM API Integration"><img src="https://img.shields.io/badge/LLM%20API%20Integration-00C2FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="LLM API Integration"/></a>&nbsp;
+      <a href="https://www.ibm.com/think/topics/retrieval-augmented-generation" target="_blank" rel="noreferrer" title="Retrieval-Augmented Generation (RAG)"><img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Retrieval-Augmented Generation"/></a>&nbsp;
+      <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings" target="_blank" rel="noreferrer" title="Vector Embeddings"><img src="https://img.shields.io/badge/Embeddings-0D9488?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Embeddings"/></a>&nbsp;
+      <a href="https://qdrant.tech/documentation/overview/" target="_blank" rel="noreferrer" title="Semantic Search"><img src="https://img.shields.io/badge/Semantic%20Search-0891B2?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search"/></a>
     </td>
   </tr>
+
   <tr>
     <td width="22%" valign="top"><b>🚀 DevOps & Tools</b></td>
     <td>
@@ -149,12 +159,16 @@
       <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/></a>&nbsp;
       <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a>&nbsp;
       <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>&nbsp;
-      <a href="https://www.kernel.org" target="_blank" rel="noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
+      <a href="https://www.kernel.org" target="_blank" rel="noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>&nbsp;
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title="GitHub Actions (Familiar)"><img src="https://img.shields.io/badge/GitHub%20Actions-Familiar-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions (Familiar)"/></a>&nbsp;
+      <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer" title="CI/CD (Familiar)"><img src="https://img.shields.io/badge/CI%2FCD-Familiar-64748B?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD (Familiar)"/></a>&nbsp;
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS (Familiar)"><img src="https://img.shields.io/badge/AWS-Familiar-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS (Familiar)"/></a>
     </td>
   </tr>
 </table>
 
 <br/>
+
 
 <!-- =================================================================== -->
 <!-- 🤖 AI & PRODUCTIVITY TOOLS                                          -->
